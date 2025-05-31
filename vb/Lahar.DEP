@@ -1,0 +1,278 @@
+[Version]
+Version=1.0.0.0
+
+[Lahar.exe <0009>]
+Dest=$(AppPath)
+Date=19/03/05
+Time=14:12
+Version=1.0.0.0
+CABFilename=Lahar.CAB
+CABINFFile=Lahar.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=msado20.tlb
+Uses8=MSCDRUN.DLL
+Uses9=MSDATOBJ.DLL
+Uses10=GRAPH.EXE
+Uses11=ODBCTOOL.DLL
+Uses12=odbccon.dll
+Uses13=ChartExpert.dll
+Uses14=MSACC.OLB
+Uses15=sacommoncontrols.dll
+Uses16=SAControllers.dll
+Uses17=MDT2DD.DLL
+Uses18=ACTIVEDS.TLB
+Uses19=msador15.dll
+Uses20=MSCONDES.DLL
+Uses21=odbcconf.dll
+Uses22=msdds.dll
+Uses23=MSDE.DLL
+Uses24=MSDBRPTR.DLL
+Uses25=msddslm.dll
+Uses26=DX8VB.DLL
+Uses27=apscon.dll
+Uses28=localcon.dll
+Uses29=DX3J.DLL
+Uses30=APEDBSET.DLL
+Uses31=msadox.dll
+Uses32=DAO360.DLL
+Uses33=dte.olb
+Uses34=DTE.TLB
+Uses35=DBADAPT.DLL
+Uses36=MSBIND.DLL
+Uses37=msderun.dll
+Uses38=DTCRT.DLL
+Uses39=COMDLG32.OCX
+Uses40=Mscal.ocx
+Uses41=APPWIZ.OCX
+Uses42=MSCHRT20.OCX
+Uses43=REPCDLG.OCX
+Uses44=FLEXWIZ.OCX
+Uses45=MSFLXGRD.OCX
+Uses46=DATAFORM.OCX
+Uses47=MSRDC20.OCX
+Uses48=MSCOMM32.OCX
+Uses49=Mscomct2.ocx
+Uses50=FM20.DLL
+Uses51=DBLIST32.OCX
+Uses52=vbalGrid6.ocx
+Uses53=MSHFLXGD.OCX
+Uses54=Mscomctl.ocx
+Uses55=MSADODC.OCX
+Uses56=actrpt.dll
+Uses57=db2.mdb
+Uses58=db3.mdb
+
+[msado20.tlb <0009>]
+Dest=$(WinSysPath)
+Date=23/09/04
+Time=20:29
+Version=2.51.5303.0
+
+[MSDATOBJ.DLL <0009>]
+Dest=$(WinSysPath)
+Date=18/06/98
+Time=00:00
+Version=6.0.0.8169
+
+[GRAPH.EXE <0009>]
+Dest=$(AppPath)
+Date=04/02/01
+Time=01:03
+Version=10.0.2602.0
+
+[ODBCTOOL.DLL <0009>]
+Dest=$(WinSysPath)
+Date=18/06/98
+Time=00:00
+Version=6.0.0.8169
+
+[odbccon.dll <0009>]
+Dest=$(WinSysPath)
+Date=05/05/00
+Time=06:06
+Version=8.0.2.119
+
+[ChartExpert.dll <0009>]
+Dest=$(WinSysPath)
+Date=05/05/00
+Time=05:17
+Version=8.0.2.119
+
+[MSACC.OLB <0009>]
+Dest=$(WinSysPath)
+Date=09/02/01
+Time=09:01
+Version=10.0.2607.0
+
+[sacommoncontrols.dll <0009>]
+Dest=$(WinSysPath)
+Date=05/05/00
+Time=05:41
+Version=8.0.2.119
+
+[SAControllers.dll <0009>]
+Dest=$(WinSysPath)
+Date=05/05/00
+Time=05:39
+Version=8.0.2.119
+
+[MDT2DD.DLL <0009>]
+Dest=$(WinSysPath)
+Date=20/06/98
+Time=00:00
+Version=2.0.0.8171
+
+[ACTIVEDS.TLB <0009>]
+Dest=$(WinSysPath)
+Date=28/04/98
+Time=20:18
+Version=0.0.0.0
+
+[MSCONDES.DLL <0009>]
+Dest=$(WinSysPath)
+Date=18/06/98
+Time=00:00
+Version=6.0.81.69
+
+[odbcconf.dll <0009>]
+Dest=$(AppPath)
+Date=23/09/04
+Time=20:29
+Version=3.520.5303.5
+
+[msdds.dll <0009>]
+Dest=$(WinSysPath)
+Date=16/01/01
+Time=07:00
+Version=7.0.9064.9112
+
+[MSDE.DLL <0009>]
+Dest=$(WinSysPath)
+Date=09/06/98
+Time=00:00
+Version=6.0.0.3005
+
+[MSDBRPTR.DLL <0009>]
+Dest=$(WinSysPath)
+Date=15/07/00
+Time=11:30
+Version=6.0.88.4
+
+[msddslm.dll <0009>]
+Dest=$(WinSysPath)
+Date=16/01/01
+Time=07:00
+Version=7.0.9064.9112
+
+[DX8VB.DLL <0009>]
+Dest=$(WinSysPath)
+Date=30/05/03
+Time=09:00
+Version=4.9.0.902
+
+[apscon.dll <0009>]
+Dest=$(WinSysPath)
+Date=25/11/99
+Time=14:47
+Version=1.0.3.11
+
+[localcon.dll <0009>]
+Dest=$(WinSysPath)
+Date=05/05/00
+Time=06:06
+Version=8.0.2.119
+
+[DX3J.DLL <0009>]
+Dest=$(WinSysPath)
+Date=23/04/99
+Time=22:22
+Version=4.79.0.2725
+
+[APEDBSET.DLL <0009>]
+Dest=$(WinSysPath)
+Date=18/06/98
+Time=00:00
+Version=6.0.0.8169
+
+[msadox.dll <0009>]
+Dest=$(WinSysPath)
+Date=23/09/04
+Time=20:29
+Version=2.51.5303.0
+
+[DAO360.DLL <0009>]
+Dest=$(WinSysPath)
+Date=05/04/01
+Time=12:05
+Version=3.60.3714.5
+
+[dte.olb <0009>]
+Dest=$(WinSysPath)
+Date=16/01/01
+Time=04:25
+Version=7.0.9064.9112
+
+[DTE.TLB <0009>]
+Dest=$(WinSysPath)
+Date=16/06/98
+Time=00:00
+Version=6.0.81.67
+
+[msderun.dll <0009>]
+Dest=$(WinSysPath)
+Date=10/10/00
+Time=09:01
+Version=6.0.88.77
+
+[DTCRT.DLL <0009>]
+Dest=$(WinSysPath)
+Date=23/06/98
+Time=00:00
+Version=6.0.0.8162
+
+[APPWIZ.OCX <0009>]
+Dest=$(WinSysPath)
+Date=24/06/98
+Time=00:00
+Version=6.0.0.8177
+
+[REPCDLG.OCX <0009>]
+Dest=$(WinSysPath)
+Date=23/06/98
+Time=00:00
+Version=6.0.0.8161
+
+[FLEXWIZ.OCX <0009>]
+Dest=$(WinSysPath)
+Date=24/06/98
+Time=00:00
+Version=6.0.0.8169
+
+[DATAFORM.OCX <0009>]
+Dest=$(WinSysPath)
+Date=24/06/98
+Time=00:00
+Version=6.0.0.8169
+
+[FM20.DLL <0009>]
+Dest=$(WinSysPath)
+Date=17/10/99
+Time=19:01
+Version=2.1.7017.1
+
+[vbalGrid6.ocx <0009>]
+Dest=$(WinSysPath)
+Date=12/10/01
+Time=02:39
+Version=1.1.0.7
+
+[actrpt.dll <0009>]
+Dest=$(WinSysPath)
+Date=20/11/98
+Time=11:23
+Version=1.0.8.0

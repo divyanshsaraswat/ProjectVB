@@ -1,0 +1,1044 @@
+[Root]
+Most Recent Package=Standard Setup Package 2
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\lahar\vb
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+2=
+4=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Program Files\ActiveReports\actrpt.dll=
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=
+C:\WINDOWS\SYSTEM\FM20.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=
+C:\Program Files\Common Files\designer\msderun.dll=
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=
+C:\WINDOWS\SYSTEM\DAO360.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=
+C:\WINDOWS\SYSTEM\DX3J.DLL=
+C:\Program Files\Seagate Software\Analysis\localcon.dll=
+C:\Program Files\Seagate Software\Analysis\apscon.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=
+C:\Program Files\Common Files\designer\MSDE.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=
+C:\WINDOWS\SYSTEM\odbcconf.dll=
+C:\Program Files\Common Files\designer\MSCONDES.DLL=
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFMatchSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerView.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerCom.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFExtractSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WClient.dll=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\Mscal.ocx=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM\MSBIND.DLL=
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=
+
+[Package|Dep File 1|Files Added]
+C:\lahar\vb\db2.mdb=
+C:\lahar\vb\db3.mdb=
+
+[Package|Dep File 1|Files Removed]
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfmatchsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingerview.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingercom.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfextractsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wclient.dll=
+
+[Package|Dep File 1|Files In Project]
+C:\lahar\vb\Lahar.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=Yes
+C:\Program Files\Common Files\designer\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\odbc32.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=Yes
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WClient.dll=No
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WSrv.exe=No
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFExtractSrv.exe=No
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerCom.dll=No
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerView.dll=No
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFMatchSrv.exe=No
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=Yes
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=Yes
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=Yes
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=Yes
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=Yes
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=Yes
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=Yes
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msador15.dll=Yes
+C:\Program Files\Common Files\designer\MSCONDES.DLL=Yes
+C:\WINDOWS\SYSTEM\odbcconf.dll=Yes
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=Yes
+C:\Program Files\Common Files\designer\MSDE.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=Yes
+C:\WINDOWS\SYSTEM\DX8VB.DLL=Yes
+C:\Program Files\Seagate Software\Analysis\apscon.dll=Yes
+C:\Program Files\Seagate Software\Analysis\localcon.dll=Yes
+C:\WINDOWS\SYSTEM\DX3J.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=Yes
+C:\WINDOWS\SYSTEM\DAO360.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=Yes
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=Yes
+C:\WINDOWS\SYSTEM\DBADAPT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ole db\msdaosp.dll=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\designer\msderun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscal.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=Yes
+C:\WINDOWS\SYSTEM\FM20.DLL=Yes
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=Yes
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\Program Files\ActiveReports\actrpt.dll=Yes
+C:\lahar\vb\db2.mdb=Yes
+C:\lahar\vb\db3.mdb=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\lahar\vb\Lahar.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbc32.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msador15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\designer\MSCONDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbcconf.dll=$(AppPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\apscon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\localcon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX3J.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DAO360.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ole db\msdaosp.dll=$(CommonFilesSys)\OLE DB
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\designer\msderun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscal.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\Program Files\ActiveReports\actrpt.dll=$(WinSysPath)
+C:\lahar\vb\db2.mdb=$(AppPath)
+C:\lahar\vb\db3.mdb=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Lahar.CAB
+DepCabRun=Lahar.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\lahar\vb
+ProjectFolder=C:\lahar\vb
+ServerSideCab=
+File1=C:\lahar\vb\Lahar.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\lahar\pack
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+2=
+4=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\ActiveReports\actrpt.dll=
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=
+C:\WINDOWS\SYSTEM\FM20.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=
+C:\Program Files\Common Files\designer\msderun.dll=
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=
+C:\WINDOWS\SYSTEM\DAO360.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=
+C:\WINDOWS\SYSTEM\DX3J.DLL=
+C:\Program Files\Seagate Software\Analysis\localcon.dll=
+C:\Program Files\Seagate Software\Analysis\apscon.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=
+C:\Program Files\Common Files\designer\MSDE.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=
+C:\WINDOWS\SYSTEM\odbcconf.dll=
+C:\Program Files\Common Files\designer\MSCONDES.DLL=
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFMatchSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerView.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerCom.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFExtractSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WClient.dll=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=
+C:\WINDOWS\SYSTEM32\comctl32.ocx=
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=
+C:\WINDOWS\SYSTEM32\DBLIST32.OCX=
+C:\WINDOWS\SYSTEM32\FM20.DLL=
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=
+C:\WINDOWS\SYSTEM32\mscomm32.ocx=
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=
+C:\WINDOWS\SYSTEM32\DATAFORM.OCX=
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM32\FLEXWIZ.OCX=
+C:\WINDOWS\SYSTEM32\REPCDLG.OCX=
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM32\APPWIZ.OCX=
+C:\WINDOWS\SYSTEM32\Mscal.ocx=
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM32\APILOAD.EXE=
+C:\WINDOWS\SYSTEM32\AXDOCWIZ.DLL=
+C:\WINDOWS\SYSTEM32\CTRLWIZ.DLL=
+C:\Program Files\Microsoft Office\Office\MIMEDIR.DLL=
+C:\WINDOWS\SYSTEM32\DBWIZ1.DLL=
+C:\WINDOWS\SYSTEM32\dx7vb.dll=
+C:\WINDOWS\SYSTEM32\MIGV2.DLL=
+C:\WINDOWS\SYSTEM32\webvw.dll=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=
+C:\WINDOWS\SYSTEM32\atl.dll=
+C:\WINDOWS\SYSTEM32\actrpt.dll=
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=
+C:\WINDOWS\SYSTEM32\DTE.OLB=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\SYSTEM32\DX3J.DLL=
+C:\WINDOWS\SYSTEM32\dx8vb.dll=
+C:\WINDOWS\SYSTEM32\MSDDSLM.DLL=
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=
+C:\WINDOWS\SYSTEM32\MSDDS.DLL=
+C:\WINDOWS\SYSTEM32\odbcconf.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\Mscal.ocx=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM\MSBIND.DLL=
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\lahar\vb\db2.mdb=
+c:\lahar\vb\db3.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfmatchsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingerview.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingercom.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfextractsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wclient.dll=
+c:\lahar\vb\db2.mdb=
+c:\lahar\vb\db3.mdb=
+c:\lahar\vb\lahar.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\lahar\vb\Lahar.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=Yes
+C:\Program Files\Common Files\designer\MSCDRUN.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=Yes
+C:\Program Files\Common Files\designer\MSCONDES.DLL=Yes
+C:\Program Files\Common Files\designer\MSDE.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=Yes
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=Yes
+C:\Program Files\Common Files\designer\msderun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=Yes
+C:\lahar\vb\db2.mdb=No
+C:\lahar\vb\db3.mdb=No
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=Yes
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=Yes
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=Yes
+C:\WINDOWS\SYSTEM32\odbcconf.dll=Yes
+C:\WINDOWS\SYSTEM32\MSDDS.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSDDSLM.DLL=Yes
+C:\WINDOWS\SYSTEM32\dx8vb.dll=Yes
+C:\WINDOWS\SYSTEM32\DX3J.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\SYSTEM32\DTE.OLB=Yes
+C:\WINDOWS\SYSTEM32\DBADAPT.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM32\actrpt.dll=Yes
+C:\WINDOWS\SYSTEM32\atl.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=Yes
+C:\WINDOWS\SYSTEM32\webvw.dll=Yes
+C:\WINDOWS\SYSTEM32\MIGV2.DLL=Yes
+C:\WINDOWS\SYSTEM32\dx7vb.dll=Yes
+C:\WINDOWS\SYSTEM32\DBWIZ1.DLL=Yes
+C:\Program Files\Microsoft Office\Office\MIMEDIR.DLL=Yes
+C:\WINDOWS\SYSTEM32\CTRLWIZ.DLL=Yes
+C:\WINDOWS\SYSTEM32\AXDOCWIZ.DLL=Yes
+C:\WINDOWS\SYSTEM32\APILOAD.EXE=Yes
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM32\Mscal.ocx=Yes
+C:\WINDOWS\SYSTEM32\APPWIZ.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM32\REPCDLG.OCX=Yes
+C:\WINDOWS\SYSTEM32\FLEXWIZ.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\DATAFORM.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM32\mscomm32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM32\FM20.DLL=Yes
+C:\WINDOWS\SYSTEM32\DBLIST32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=Yes
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM32\comctl32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\lahar\vb\Lahar.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbc32.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msador15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\designer\MSCONDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbcconf.dll=$(AppPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\apscon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\localcon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX3J.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DAO360.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ole db\msdaosp.dll=$(CommonFilesSys)\OLE DB
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\designer\msderun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscal.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\Program Files\ActiveReports\actrpt.dll=$(WinSysPath)
+C:\lahar\vb\db2.mdb=$(AppPath)
+C:\lahar\vb\db3.mdb=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=$(AppPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\odbcconf.dll=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSDDS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDDSLM.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\dx8vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DX3J.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DTE.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\actrpt.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\atl.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\webvw.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MIGV2.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\dx7vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBWIZ1.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MIMEDIR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\CTRLWIZ.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\AXDOCWIZ.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\APILOAD.EXE=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Mscal.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\REPCDLG.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\FLEXWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=No
+C:\WINDOWS\SYSTEM32\odbcconf.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|DepFile]
+DepCabFile=Lahar.CAB
+DepCabRun=Lahar.INF
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Lahar
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Lahar
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Lahar]
+Icon1=Lahar.exe
+Title1=Lahar
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\lahar\pack
+ProjectFolder=C:\lahar\vb
+ServerSideCab=
+File1=C:\lahar\pack\setup.exe
+File2=C:\lahar\pack\Setup.Lst
+File3=C:\lahar\pack\Lahar.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Daksh Mumbai VB\Daksh
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+db2.mdb=D:\Daksh Mumbai VB\Original VB\vb\db2.mdb
+
+[Package|Standard Setup Package 2|Files Released]
+2=
+4=
+DTE.TLB=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\Program Files\ActiveReports\actrpt.dll=
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=
+C:\WINDOWS\SYSTEM\FM20.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=
+C:\Program Files\Common Files\designer\msderun.dll=
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=
+C:\WINDOWS\SYSTEM\DAO360.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=
+C:\WINDOWS\SYSTEM\DX3J.DLL=
+C:\Program Files\Seagate Software\Analysis\localcon.dll=
+C:\Program Files\Seagate Software\Analysis\apscon.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=
+C:\Program Files\Common Files\designer\MSDE.DLL=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=
+C:\WINDOWS\SYSTEM\odbcconf.dll=
+C:\Program Files\Common Files\designer\MSCONDES.DLL=
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFMatchSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerView.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFingerCom.dll=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VFExtractSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WSrv.exe=
+C:\Program Files\Neurotechnologija\VeriFinger 4.1 Components Demo\VF3WClient.dll=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=
+C:\WINDOWS\SYSTEM32\comctl32.ocx=
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=
+C:\WINDOWS\SYSTEM32\DBLIST32.OCX=
+C:\WINDOWS\SYSTEM32\FM20.DLL=
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=
+C:\WINDOWS\SYSTEM32\mscomm32.ocx=
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=
+C:\WINDOWS\SYSTEM32\DATAFORM.OCX=
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM32\FLEXWIZ.OCX=
+C:\WINDOWS\SYSTEM32\REPCDLG.OCX=
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM32\APPWIZ.OCX=
+C:\WINDOWS\SYSTEM32\Mscal.ocx=
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM32\APILOAD.EXE=
+C:\WINDOWS\SYSTEM32\AXDOCWIZ.DLL=
+C:\WINDOWS\SYSTEM32\CTRLWIZ.DLL=
+C:\Program Files\Microsoft Office\Office\MIMEDIR.DLL=
+C:\WINDOWS\SYSTEM32\DBWIZ1.DLL=
+C:\WINDOWS\SYSTEM32\dx7vb.dll=
+C:\WINDOWS\SYSTEM32\MIGV2.DLL=
+C:\WINDOWS\SYSTEM32\webvw.dll=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=
+C:\WINDOWS\SYSTEM32\atl.dll=
+C:\WINDOWS\SYSTEM32\actrpt.dll=
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=
+C:\WINDOWS\SYSTEM32\DTE.OLB=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\SYSTEM32\DX3J.DLL=
+C:\WINDOWS\SYSTEM32\dx8vb.dll=
+C:\WINDOWS\SYSTEM32\MSDDSLM.DLL=
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=
+C:\WINDOWS\SYSTEM32\MSDDS.DLL=
+C:\WINDOWS\SYSTEM32\odbcconf.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=
+C:\Windows\SysWOW64\FM20.DLL=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\REPCDLG.OCX=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=
+C:\Program Files (x86)\Common Files\System\ado\msadomd28.tlb=
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\Winapi\APILOAD.EXE=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\AXDOCWIZ.DLL=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\CTRLWIZ.DLL=
+C:\Program Files (x86)\Microsoft Office\Office12\MIMEDIR.DLL=
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\MIGV2.DLL=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=
+C:\Windows\SysWOW64\atl.dll=
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\dao360.dll=
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\APEDBSET.DLL=
+C:\Windows\SysWOW64\dx3j.dll=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+C:\Program Files (x86)\Common Files\DESIGNER\MSDE.DLL=
+C:\Program Files (x86)\Common Files\DESIGNER\MSCONDES.DLL=
+C:\Program Files (x86)\Common Files\microsoft shared\MSDesigners98\MDT2DD.DLL=
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\ODBCTOOL.DLL=
+C:\Program Files (x86)\Microsoft Office\Office12\GRAPH.EXE=
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=
+C:\WINDOWS\SYSTEM\Mscal.ocx=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM\MSBIND.DLL=
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=
+
+[Package|Standard Setup Package 2|Files Added]
+db2.mdb=
+db3.mdb=
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfmatchsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingerview.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfingercom.dll=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vfextractsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wsrv.exe=
+c:\program files\neurotechnologija\verifinger 4.1 components demo\vf3wclient.dll=
+c:\lahar\vb\db2.mdb=
+c:\lahar\vb\db3.mdb=
+c:\lahar\vb\lahar.exe=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM32\odbcconf.dll=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+D:\Daksh Mumbai VB\Original VB\vb\DAKSHGSTMUMBAIFINAL.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\GRAPH.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\ODBCTOOL.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\MSDesigners98\MDT2DD.DLL=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSCONDES.DLL=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSDE.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\dx3j.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\APEDBSET.DLL=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\dao360.dll=Yes
+C:\Windows\SysWOW64\DBADAPT.DLL=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\SysWOW64\atl.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\MIGV2.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MIMEDIR.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\CTRLWIZ.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\AXDOCWIZ.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\Winapi\APILOAD.EXE=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadomd28.tlb=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSCAL.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\REPCDLG.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=Yes
+C:\Windows\SysWOW64\MSRDC20.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\FM20.DLL=Yes
+C:\Windows\SysWOW64\MSHFLXGD.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Daksh Mumbai VB\Original VB\vb\db2.mdb=Yes
+D:\Daksh Mumbai VB\Original VB\vb\db3.mdb=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\lahar\vb\Lahar.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbc32.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\GRAPH.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\ODBCTOOL.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\odbccon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\ChartExpert.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\sacommoncontrols.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\SAControllers.dll=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ACTIVEDS.TLB=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msador15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\designer\MSCONDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\odbcconf.dll=$(AppPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msdds.dll=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSDesigners7\msddslm.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\apscon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Analysis\localcon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX3J.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\APEDBSET.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DAO360.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\MSEnv\dte.olb=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ole db\msdaosp.dll=$(CommonFilesSys)\OLE DB
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\designer\msderun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VIntDev98\bin\DTCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscal.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\vbalGrid6.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\Program Files\ActiveReports\actrpt.dll=$(WinSysPath)
+C:\lahar\vb\db2.mdb=$(AppPath)
+C:\lahar\vb\db3.mdb=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=$(AppPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\odbcconf.dll=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSDDS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDDSLM.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\dx8vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DX3J.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DTE.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\actrpt.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\atl.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\webvw.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MIGV2.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\dx7vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBWIZ1.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MIMEDIR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\CTRLWIZ.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\AXDOCWIZ.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\APILOAD.EXE=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Mscal.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\REPCDLG.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\FLEXWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Daksh Mumbai VB\Original VB\vb\DAKSHGSTMUMBAIFINAL.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\MSDATOBJ.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\GRAPH.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\ODBCTOOL.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\MSDesigners98\MDT2DD.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSCONDES.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSDE.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dx3j.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\APE\APEDBSET.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\dao360.dll=$(WinSysPath)
+C:\Windows\SysWOW64\DBADAPT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\SysWOW64\atl.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\PDADDIN.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\MIGV2.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MIMEDIR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\CTRLWIZ.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\AXDOCWIZ.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\Winapi\APILOAD.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msadomd28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSCAL.OCX=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\Repostry\REPCDLG.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSRDC20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\FM20.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Daksh Mumbai VB\Original VB\vb\db2.mdb=$(AppPath)
+D:\Daksh Mumbai VB\Original VB\vb\db3.mdb=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Office\Office\GRAPH9.EXE=No
+C:\WINDOWS\SYSTEM32\odbcconf.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Daksh Mumbai VB\Original VB\vb\DAKSHGSTMUMBAIFINAL.exe=No
+C:\Program Files (x86)\Microsoft Office\Office12\GRAPH.EXE=No
+C:\Program Files (x86)\Microsoft Visual Studio\COMMON\Tools\Winapi\APILOAD.EXE=No
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=No
+C:\Program Files (x86)\Microsoft Office\Office12\MSCAL.OCX=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Daksh Mumbai VB\Original VB\vb\db2.mdb=No
+D:\Daksh Mumbai VB\Original VB\vb\db3.mdb=No
+
+[Package|Standard Setup Package 2|DepFile]
+DepCabFile=Lahar.CAB
+DepCabRun=Lahar.INF
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Lahar
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Lahar
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Lahar]
+Icon1=Lahar.exe
+Title1=Lahar
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=d:\Daksh Mumbai VB\Daksh
+ProjectFolder=D:\Daksh Mumbai VB\Original VB\vb
+ServerSideCab=
+File1=d:\Daksh Mumbai VB\Daksh\setup.exe
+File2=d:\Daksh Mumbai VB\Daksh\Setup.Lst
+File3=d:\Daksh Mumbai VB\Daksh\DAKSHGSTMUMBAIFINAL.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

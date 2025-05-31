@@ -1,0 +1,6 @@
+Line 121: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 127: The property name _ExtentX in MSFlexGrid1 is invalid.
+Line 128: The property name _ExtentY in MSFlexGrid1 is invalid.
+Line 129: The property name _Version in MSFlexGrid1 is invalid.
+Line 130: The property name Cols in MSFlexGrid1 is invalid.
+Line 131: The property name AllowUserResizing in MSFlexGrid1 is invalid.
